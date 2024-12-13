@@ -15,12 +15,14 @@ Projection image Autoencoder for LiDAR data
 ## 1. LiDAR projection generator
 The LiDAR data from KITTI dataset is projected to 2D image, in size of 720 x 16, considering the FOV of Velodyne HDL-64E, which was used for data collection in KITTI datset.
 This code can be used for pointclouds from other LiDARs, with adjustment on FOV and number of points.
-![projections](./readmefiles/projection.gif)
+
+![projections](readmefiles/projection.gif)
 
 
 ## 2. Autoencoder
 The autoencoder implemented here is strongly affected by the [delora repository](https://github.com/leggedrobotics/delora). You can checkout the details in the linked repository.
-![autoencoder](./readmefiles/autoencoder.gif)
+
+![autoencoder](readmefiles/autoencoder.gif)
 
 ## How to use
 1. Run **`pip install requirements.txt`** for installation of required python libraries.
