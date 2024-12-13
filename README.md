@@ -1,6 +1,7 @@
 # SIPAL-KITTI
 Spatial Image Projection Autoencoder for LiDAR data
 
+![projections](readmefiles/projection_shrink.gif)
 
 ## Project Structure
 ### `autoencoder`
