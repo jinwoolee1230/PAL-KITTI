@@ -18,12 +18,14 @@ The LiDAR data from KITTI dataset is projected to 2D image, in size of 720 x 16,
 This code can be used for pointclouds from other LiDARs, with adjustment on FOV and number of points.
 
 ![projections](readmefiles/projection.gif)
+![projections_shrinked](readmefiles/shrink1.gif)
 
 
 ## 2. Autoencoder
 The autoencoder implemented here is strongly affected by the [delora repository](https://github.com/leggedrobotics/delora). You can checkout the details in the linked repository.
 
 ![autoencoder](readmefiles/autoencoder.gif)
+![autoencoder_shrinked](readmefiles/shrink2.gif)
 
 ## How to use
 1. Run **`pip install requirements.txt`** for installation of required python libraries.
