@@ -1,5 +1,5 @@
-# PAL-KITTI
-Projection image Autoencoder for LiDAR data
+# SIPAL-KITTI
+Spatial Image Projection Autoencoder for LiDAR data
 
 
 ## Project Structure
